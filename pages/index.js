@@ -25,7 +25,7 @@ function Home() {
                     border: "1px solid rgba(255, 255, 255, 0.2)",
                 }}
             >
-                Si vis pacem, para bellum :)
+                Si vis pacem, para bellum 😎
             </h1>
         </div>
     );
